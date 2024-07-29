@@ -1,6 +1,6 @@
 # Acil Durum Panik Uygulaması Gizlilik Politikası
 
-**Son Güncelleme:** [Tarih]
+**Son Güncelleme:** [29.07.2024]
 
 Acil Durum Panik Uygulaması’nı (bundan sonra "Uygulama" olarak anılacaktır) kullanmanız, bu Gizlilik Politikası’nda belirtilen şartları kabul ettiğiniz anlamına gelir. Bu politika, Uygulama tarafından toplanan kişisel verilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır.
 
@@ -29,14 +29,14 @@ Kullanıcı'nın kişisel bilgileri ve konum bilgileri, yetkisiz erişim, kullan
 
 ## 5. Üçüncü Taraf Bağlantıları
 
-Uygulama, üçüncü taraf web sitelerine veya hizmetlere bağlantılar içerebilir. Bu üçüncü tarafların gizlilik uygulamalarından sorumlu değiliz. Kullanıcı, bu sitelere veya hizmetlere erişmeden önce ilgili gizlilik politikalarını gözden geçirmelidir.
+Uygulama, üçüncü taraf web sitelerine veya hizmetlere bağlantı içermemektedir.
 
 ## 6. İzinler
 
 Uygulamanın doğru çalışabilmesi için Kullanıcı'nın SMS gönderme ve konum bilgisi erişim izinlerini vermesi gerekmektedir. Bu izinler, Kullanıcı'nın cihaz ayarlarından kontrol edilebilir.
 
 ### SMS Gönderme İzni:
-- Uygulama, yalnızca acil durumlarda önceden belirlenen kişilere SMS göndermek amacıyla SMS gönderme iznini kullanır. Bu izin, Kullanıcı'nın acil durum bilgilerini paylaşabilmesi için gereklidir ve başka bir amaçla kullanılmaz.
+- Uygulama, yalnızca acil durumlarda önceden belirlenen kişilere SMS göndermek amacıyla SMS gönderme iznini kullanır. Bu izin, Kullanıcı'nın acil durum bilgilerini paylaşabilmesi için gereklidir ve uygulama bu hizmeti başka bir amaçla kullanılmaz.
 
 ### Konum Bilgisi İzni:
 - Uygulama, yalnızca Kullanıcı'nın acil durumlarda konumunu belirlenen kişilere gönderebilmesi amacıyla konum bilgisi iznini kullanır. Bu izin, Kullanıcı'nın acil durumlarda nerede olduğunu bildirmek için gereklidir ve başka bir amaçla kullanılmaz.
@@ -56,7 +56,7 @@ Bu Gizlilik Politikası ile ilgili sorularınız veya endişeleriniz varsa, lüt
 
 ## 10. Veri Saklama ve Silme
 
-Kullanıcı verileri, yalnızca gerektiği süre boyunca saklanır ve daha sonra güvenli bir şekilde silinir. Kullanıcı, kişisel verilerinin silinmesini talep edebilir ve bu talep en kısa sürede yerine getirilir.
+Kullanıcı verileri, hiçbir şekilde saklanmaz. Kullanıcı, uygulamayı telefonundan kaldırdığı anda tüm verileri kendi telefonundaki lochal veri tabanından silinir.
 
 ## 11. Veri İşleme Güvenliği
 
