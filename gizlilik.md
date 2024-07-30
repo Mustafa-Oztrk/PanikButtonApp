@@ -1,5 +1,5 @@
 # Acil Durum Panik Uygulaması Gizlilik Politikası
-**Son Güncelleme:** 29.07.2024
+**Son Güncelleme:** 30.07.2024
 
 Acil Durum Panik Uygulaması’nı (bundan sonra "Uygulama" olarak anılacaktır) kullanmanız, bu Gizlilik Politikası’nda belirtilen şartları kabul ettiğiniz anlamına gelir. Bu politika, Uygulama tarafından toplanan kişisel verilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır.
 
